@@ -1,6 +1,6 @@
 Back to [index](README.md)
 
-&lt; [A. Language enhancements](A-LanguageEnhancements.md)
+&lt; [A. Language enhancements](A.md)
 
 [C. Lambda expressions](C-LambdaExpressions.md) &gt;
 
@@ -13,6 +13,6 @@ Back to [index](README.md)
 
 Back to [index](README.md)
 
-&lt; [A. Language enhancements](A-LanguageEnhancements.md)
+&lt; [A. Language enhancements](A.md)
 
 [C. Lambda expressions](C-LambdaExpressions.md) &gt;
