@@ -40,7 +40,7 @@ Exam topics:
 #### [J. Language Enhancements](J-LanguageEnhancements.md)
 ##### [1. Use try-with-resources construct](J-LanguageEnhancements.md#1-use-try-with-resources-construct)
 ##### [2. Develop code that handles multiple Exception types in a single catch block](J-LanguageEnhancements.md#2-develop-code-that-handles-multiple-exception-types-in-a-single-catch-block)
-=
+<hr>
 #### OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide
 ##### Part I - Exam 1Z0-815, OCP Java SE 11 Programmer I
 <table>
