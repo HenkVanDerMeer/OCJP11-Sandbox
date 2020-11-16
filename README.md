@@ -40,3 +40,142 @@ Exam topics:
 #### [J. Language Enhancements](J-LanguageEnhancements.md)
 ##### [1. Use try-with-resources construct](J-LanguageEnhancements.md#1-use-try-with-resources-construct)
 ##### [2. Develop code that handles multiple Exception types in a single catch block](J-LanguageEnhancements.md#2-develop-code-that-handles-multiple-exception-types-in-a-single-catch-block)
+=
+#### OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide
+##### Part I - Exam 1Z0-815, OCP Java SE 11 Programmer I
+<table>
+    <thead>
+        <tr>
+            <th>Chapter</th>
+            <th>Title</th>
+            <th>Pages</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Welcome to Java</td>
+            <td>34</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Java Building Blocks</td>
+            <td>44</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Operators</td>
+            <td>34</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Making Decisions</td>
+            <td>48</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Core Java APIs</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Lambdas and Functional Interfaces</td>
+            <td>26</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Methods and Encapsulation</td>
+            <td>48</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Class Design</td>
+            <td>68</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Advanced Class Design</td>
+            <td>38</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Exceptions</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Modules</td>
+            <td>40</td>
+        </tr>
+    </tbody>
+</table>
+
+##### Part II - Exam 1Z0-816, OCP Java SE 11 Programmer II
+##### Exam 1Z0-817, Upgrade OCP Java SE 11
+
+<table>
+    <thead>
+        <tr>
+            <th>Chapter</th>
+            <th>Title</th>
+            <th>Pages</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>12</td>
+            <td>Java Fundamentals</td>
+            <td>58</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Annotations</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Generics and Collections</td>
+            <td>70</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Functional Programming</td>
+            <td>??</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>??</td>
+            <td>??</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Modular Applications</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Concurrency</td>
+            <td>74</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>I/O</td>
+            <td>56</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>NIO.2</td>
+            <td>54</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>JDBC</td>
+            <td>46</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Security</td>
+            <td>36</td>
+        </tr>
+    </tbody>
+</table>
