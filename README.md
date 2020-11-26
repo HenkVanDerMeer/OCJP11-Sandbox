@@ -144,12 +144,12 @@ Exam topics:
         <tr>
             <td>15</td>
             <td>Functional Programming</td>
-            <td>??</td>
+            <td>?</td>
         </tr>
         <tr>
             <td>16</td>
-            <td>??</td>
-            <td>??</td>
+            <td>?</td>
+            <td>?</td>
         </tr>
         <tr>
             <td>17</td>
